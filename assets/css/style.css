@@ -973,12 +973,12 @@ section {
 }
 
 .menu .menu-content span {
-  background: #49ffaa;;
+  background: none;
   position: relative;
   z-index: 3;
   padding: 0 10px;
   font-weight: 600;
-  color: #cda45e;
+  color: #000000;
   border-radius: 5px;
 }
 
