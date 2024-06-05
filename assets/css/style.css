@@ -1,6 +1,9 @@
 .plyr--video .plyr__controls {
   direction: ltr !important;
 }
+.plyr__progress input[type=range] {
+  direction: ltr !important;
+}
 *{
   direction: rtl;
   font-family: Lalezar, system-ui !important;
