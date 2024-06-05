@@ -1,4 +1,6 @@
-
+.plyr--video .plyr__controls {
+  direction: ltr !important;
+}
 *{
   direction: rtl;
   font-family: Lalezar, system-ui !important;
